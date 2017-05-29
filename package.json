@@ -1,0 +1,21 @@
+{
+  "name": "analytics-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "git+https://github.com/mhdaloux2/analytics-test.git"
+  },
+  "author": "Mahdi Aloulou",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
